@@ -1,5 +1,7 @@
 - pull source về, bạn copy file .env.example thành file .env rồi sửa config DB trong .env
-- mình có tạo file run_script.bat, bạn chạy file này để run app
+- mình có tạo file run_script.bat
+    + bạn chọn build command để install vendor ...
+    + bạn chon start command để run app
 - mình có add file marvy_api.postman_collection.json 
 
 Do có vài điểm trong requirement của bài test không rõ nên mình tự làm theo quan điểm cá nhân như sau:
